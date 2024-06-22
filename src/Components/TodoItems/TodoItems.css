@@ -16,6 +16,7 @@
 	font-size: 18px;
 	line-height: 24px;
 	font-weight: 400;
+	color: #150a55;
 }
 
 .TodoItem-p--complete {
@@ -36,6 +37,7 @@
 .Icon-check {
 	position: absolute;
 	left: 0;
+	color: rgb(167, 164, 164);
 }
 
 .Icon-check--active {

@@ -1,7 +1,7 @@
 import "./TodoCounter.css";
 
 function TodoCounter({ total, completed }) {
-	if (total == completed) {
+	if (total === completed && total !== 0) {
 		return (
 			<h1 className="TodoCounterCompleted">
 				Filicidades, has completado <span>{completed}</span> de{" "}
