@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prj-TODO/static/css/main.18e04637.css",
+    "main.js": "/react-prj-TODO/static/js/main.5fb433f9.js",
+    "index.html": "/react-prj-TODO/index.html",
+    "main.18e04637.css.map": "/react-prj-TODO/static/css/main.18e04637.css.map",
+    "main.5fb433f9.js.map": "/react-prj-TODO/static/js/main.5fb433f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e04637.css",
+    "static/js/main.5fb433f9.js"
+  ]
+}
